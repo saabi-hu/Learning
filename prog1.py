@@ -1,1 +1,2 @@
-print("Helló Világ!")
+text = "Helló Világ!"
+print(text)
